@@ -1,4 +1,6 @@
 my_vimrc
 ========
 
-my vimrc
+my vimrc in the Fedora20.
+
+
